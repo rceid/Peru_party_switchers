@@ -5,7 +5,7 @@ To run the party switching application, please follow the steps below:
 
 	1) Please install Google Chrome, if you have not already.
 
-	2) In the "/project" directory, run the install shell script with the
+	2) In this directory, "Projects/peru_party_switchers", run the install shell script with the
 	   command '$ sh install.sh'.
 
 	3) Activate the virtual environment with the command '$ source
