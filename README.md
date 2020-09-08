@@ -1,4 +1,3 @@
-# Projects
-MSCAPP Projects
+# Peru Party Switchers
 
-Peru Party Switching project was written by Andrei Bartra, Angelo Cozzubo, Marc Richardson, and Raymond Eid
+This project was written by Andrei Bartra, Angelo Cozzubo, Marc Richardson, and Raymond Eid
